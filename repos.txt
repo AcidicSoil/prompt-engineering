@@ -19,3 +19,4 @@ https://github.com/AcidicSoil/cursor-memory-bank | AcidicSoil/cursor-memory-bank
 https://github.com/AcidicSoil/PromptWizard | AcidicSoil/PromptWizard: Task-Aware Agent-driven Prompt Optimization Framework
 https://github.com/upstash/context7 | upstash/context7: Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors
 https://github.com/AcidicSoil/graphiti | AcidicSoil/graphiti: Build Real-Time Knowledge Graphs for AI Agents
+https://github.com/AcidicSoil/prompt-engineering | AcidicSoil/prompt-engineering: 25 prompt engineering principals
