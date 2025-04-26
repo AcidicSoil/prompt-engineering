@@ -1,8 +1,9 @@
 https://smithery.ai/server/@PV-Bhat/vibe-check-mcp-server | Vibe Check | Smithery
+https://github.com/AcidicSoil/vibe-check-mcp-server | AcidicSoil/vibe-check-mcp-server: The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call "Vibe Check" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.
 https://smithery.ai/server/@JigsawStack/image-generation | JigsawStack Image Generation | Smithery
 https://github.com/JigsawStack/jigsawstack-mcp-server/tree/main/image-generation | jigsawstack-mcp-server/image-generation at main · JigsawStack/jigsawstack-mcp-server
-https://github.com/AcidicSoil/vibe-check-mcp-server | AcidicSoil/vibe-check-mcp-server: The definitive Vibe Coder's sanity check MCP server: Prevent cascading errors in AI workflows by implementing strategic pattern interrupts. Uses tool call "Vibe Check" with LearnLM 1.5 Pro (Gemini API), fine-tuned for pedagogy and metacognition to enhance complex workflow strategy, and prevents tunnel vision errors.
 https://github.com/AcidicSoil/vibe-check-mcp-server/blob/main/docs/philosophy.md | vibe-check-mcp-server/docs/philosophy.md at main · AcidicSoil/vibe-check-mcp-server
+https://github.com/AcidicSoil/bolt.diy | AcidicSoil/bolt.diy: Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 https://github.com/e2b-dev/surf | e2b-dev/surf: Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
 https://github.com/AcidicSoil/open-codex | AcidicSoil/open-codex: Lightweight coding agent that runs in your terminal
